@@ -1,7 +1,7 @@
 name: eX-code
 
 
-Core on: [workflow_dispatch]
+on: [workflow_dispatch]
 
  jobs:
 
